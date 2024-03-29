@@ -4,7 +4,7 @@ I'm a student at UCSD, who aims to become a software engineer. I'm passionate ab
 
 I love video games. I'm a huge fan of Japanese RPG games. My favorate games are Shin Megami Tensei and Monster hunter series. I also love to watch anime and read manga. I'm learning Japanese and planning to visit Japan in the future.
 
-Here is my personal site. ![https://megurukiss.netlify.app/](https://megurukiss.netlify.app/)
+See my website to know more about me. https://megurukiss.netlify.app/
 <!--
 **megurukiss/megurukiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
