@@ -2,7 +2,7 @@
 
 I'm a student at UCSD, who aims to become a software engineer. I'm passionate about learning new technologies and building projects. I'm recently learning backend development with Spring boot. I'm also learning cloud computing and DevOps. I'm excited to share my journey with you.
 
-See my website to know more about me. https://megurukiss.netlify.app/
+Check my website to know more about me. https://megurukiss.netlify.app/
 <!--
 **megurukiss/megurukiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
