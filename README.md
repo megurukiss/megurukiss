@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student at UCSD, who aims to become a software engineer. I'm passionate about learning new technologies and building projects. I'm recently learning backend development with Spring boot. I'm also learning cloud computing and DevOps. I'm excited to share my journey with you.
+I'm a student at UCSD, who aims to become a software engineer. I'm passionate about learning new technologies and building projects. I'm recently learning backend development with Go. I'm seeking opportunities to contribute to open source projects. I'm excited to share my journey with you.
 
 <!-- Check my website to know more about me. https://megurukiss.netlify.app/ -->
 <!--
